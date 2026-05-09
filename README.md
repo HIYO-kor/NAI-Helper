@@ -1,5 +1,11 @@
 # NAI-Helper
 NAI Helper Android release
+NAI Helper는 NOVEL AI 프롬프트 제작/관리 및 이미지 생성을 위한 통합 관리 어플리케이션입니다.
+
+
+#이용 가이드
+아카라이브 게시글 참조
+
 
 
 #이용약관
