@@ -18,6 +18,7 @@ NAI Helper는 NOVEL AI 프롬프트 제작/관리 및 이미지 생성을 위한
 
 ## 이용 가이드
 아카라이브 게시물 참조
+https://arca.live/b/aiart/170198380?p=1
 
 
 # Nai Helper 사용자 약관 및 이용 안내
